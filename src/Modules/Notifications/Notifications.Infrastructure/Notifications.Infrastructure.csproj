@@ -1,8 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Users.Application\Users.Application.csproj" />
-    <ProjectReference Include="..\Users.Infrastructure\Users.Infrastructure.csproj" />
+    <ProjectReference Include="..\Notifications.Application\Notifications.Application.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
