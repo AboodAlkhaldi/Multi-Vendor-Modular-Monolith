@@ -1,0 +1,9 @@
+C:\Users\Abood\source\repos\Multi Vendor E-Commerce\src\API\obj\Debug\net10.0\API.csproj.AssemblyReference.cache
+C:\Users\Abood\source\repos\Multi Vendor E-Commerce\src\API\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Abood\source\repos\Multi Vendor E-Commerce\src\API\obj\Debug\net10.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abood\source\repos\Multi Vendor E-Commerce\src\API\obj\Debug\net10.0\API.AssemblyInfoInputs.cache
+C:\Users\Abood\source\repos\Multi Vendor E-Commerce\src\API\obj\Debug\net10.0\API.AssemblyInfo.cs
+C:\Users\Abood\source\repos\Multi Vendor E-Commerce\src\API\obj\Debug\net10.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Abood\source\repos\Multi Vendor E-Commerce\src\API\obj\Debug\net10.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Abood\source\repos\Multi Vendor E-Commerce\src\API\obj\Debug\net10.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abood\source\repos\Multi Vendor E-Commerce\src\API\obj\Debug\net10.0\API.sourcelink.json
