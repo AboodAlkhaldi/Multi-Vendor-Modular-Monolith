@@ -1,6 +1,4 @@
-using BuildingBlocks.Abstractions;
-
-namespace BuildingBlocks.Abstractions
+namespace BuildingBlocks.Abstractions.Messaging
 {
     public interface IIntegrationEventHandler<in TIntegrationEvent> where TIntegrationEvent : IIntegrationEvent
     {

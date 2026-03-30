@@ -1,4 +1,4 @@
-namespace BuildingBlocks.Abstractions
+namespace BuildingBlocks.Abstractions.Pagination
 {
     public interface ISpecifications
     {

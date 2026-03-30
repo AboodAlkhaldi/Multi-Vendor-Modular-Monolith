@@ -1,4 +1,4 @@
-namespace BuildingBlocks.Abstractions
+namespace BuildingBlocks.Abstractions.Pagination
 {
     public class PagedResult<T> // this is used at the pagination 
     {
